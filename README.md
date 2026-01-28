@@ -21,7 +21,7 @@ clear
 rm -rf SafeUm-Login-Generater
 git clone https://github.com/Tabbu-Arain/SafeUm-Login-Generater
 cd SafeUm-Login-Generater
-python tabbu.py
+python Markhor.py
 ````
 
 # Screenshot 📷💾
