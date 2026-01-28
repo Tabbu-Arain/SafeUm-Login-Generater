@@ -16,7 +16,6 @@ pip install fake_useragent
 
  ### Run Command
 ````bash
-cd
 clear
 rm -rf SafeUm-Login-Generater
 git clone https://github.com/Tabbu-Arain/SafeUm-Login-Generater
